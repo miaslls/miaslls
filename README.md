@@ -23,6 +23,7 @@
 [<img src="assets/img/labareda-thumb.jpg" height="150" alt="Labareda Project Screenshot">](https://www.drinksnbbq.com.br)
 [<img src="https://github.com/miaslls/MiaPlay/blob/main/assets/img/thumb-01.jpg?raw=true" height="150" alt="MiaPlay Project Screenshot">](https://github.com/miaslls/MiaPlay#readme)
 [<img src="https://github.com/miaslls/MiaMood/blob/main/assets/img/thumb-01.jpg?raw=true" height="150" alt="MiaMood Project Screenshot">](https://github.com/miaslls/MiaMood#readme)
+[<img src="https://github.com/miaslls/MiaLog/blob/main/assets/img/thumb.jpg?raw=true" height="150" alt="MiaLog Project Screenshot">](https://github.com/miaslls/MiaLog#readme)
 [<img src="https://github.com/miaslls/BLUEsims/blob/main/assets/img/screenshots/01.jpg?raw=true" height="150" alt="BLUEsims Project Screenshot">](https://github.com/miaslls/BLUEsims#readme)
 
 ## 📊 GitHub Stats

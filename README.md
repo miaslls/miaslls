@@ -19,7 +19,7 @@
 ## 🔗 Useful Links
 
 [![Static Badge: Portfolio](https://img.shields.io/badge/Portfolio_⫶-camilasalles.dev-hotpink?&logo=kofi&logoColor=white)](https://camilasalles.dev)
-[![Static Badge: LinkedIn](https://img.shields.io/badge/LinkedIn_⫶-in%2Fsalles--camila-deepskyblue?&logo=linkedin&logoColor=white)](https://camilasalles.dev)
+[![Static Badge: LinkedIn](https://img.shields.io/badge/LinkedIn_⫶-in%2Fsalles--camila-deepskyblue?&logo=linkedin&logoColor=white)](https://linkedin.com/in/salles-camila)
 
 ## 💎 Featured Projects
 

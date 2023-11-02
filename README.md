@@ -23,6 +23,7 @@
 
 ## 💎 Featured Projects
 
+[<img src="assets/img/miatask-thumb.jpg" height="150" alt="MiaPlay Project Screenshot">](https://github.com/miaslls/MiaTask#readme)
 [<img src="assets/img/labareda-thumb.jpg" height="150" alt="Labareda Project Screenshot">](https://www.drinksnbbq.com.br)
 [<img src="https://github.com/miaslls/MiaPlay/blob/main/assets/img/thumb-01.jpg?raw=true" height="150" alt="MiaPlay Project Screenshot">](https://github.com/miaslls/MiaPlay#readme)
 [<img src="https://github.com/miaslls/MiaMood/blob/main/assets/img/thumb-01.jpg?raw=true" height="150" alt="MiaMood Project Screenshot">](https://github.com/miaslls/MiaMood#readme)

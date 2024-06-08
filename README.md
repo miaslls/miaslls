@@ -8,7 +8,7 @@
 ![Static Badge: Next.js](https://img.shields.io/badge/Next.js-5a5a5a?logo=nextdotjs)
 ![Static Badge: NestJS](https://img.shields.io/badge/NestJS-5a5a5a?logo=nestjs)
 ![Static Badge: JavaScript](https://img.shields.io/badge/JavaScript-5a5a5a?logo=javascript)
-![Static Badge: TypeScript](https://img.shields.io/badge/TypeScript-5a5a5a?logo=typescript)   
+![Static Badge: TypeScript](https://img.shields.io/badge/TypeScript-5a5a5a?logo=typescript)  
 ![Static Badge: Design](https://img.shields.io/badge/⫶_-Design-darkturquoise?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZD0nTTUgOEgxOVY1SDVWOFpNMTQgMTlWMTBINVYxOUgxNFpNMTYgMTlIMTlWMTBIMTZWMTlaTTQgM0gyMEMyMC41NTIzIDMgMjEgMy40NDc3MiAyMSA0VjIwQzIxIDIwLjU1MjMgMjAuNTUyMyAyMSAyMCAyMUg0QzMuNDQ3NzIgMjEgMyAyMC41NTIzIDMgMjBWNEMzIDMuNDQ3NzIgMy40NDc3MiAzIDQgM1onIGZpbGw9J3JnYmEoMjU1LDI1NSwyNTUsMSknPjwvcGF0aD48L3N2Zz4=&labelColor=5d5d5d)
 ![Static Badge: Figma](https://img.shields.io/badge/Figma-5a5a5a?logo=figma)
 ![Static Badge: Photoshop](https://img.shields.io/badge/Photoshop-5a5a5a?logo=adobephotoshop)
@@ -30,5 +30,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=miaslls&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&hide=issues,contribs&show=prs_merged,prs_merged_percentage&hide_border=true&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=467)](https://git.io/streak-stats)

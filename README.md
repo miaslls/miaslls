@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)  
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&hide=issues,contribs&show=prs_merged,prs_merged_percentage&hide_border=true&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=467)](https://git.io/streak-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&hide=issues,contribs&show=prs_merged,prs_merged_percentage&hide_border=true&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=467)](https://git.io/streak-stats) -->
 
-[![](https://visitcount.itsvg.in/api?id=miaslls&label=profile%20views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)  
-&nbsp;&nbsp; ↳ since july/24
+<!-- [![](https://visitcount.itsvg.in/api?id=miaslls&label=profile%20views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)  
+&nbsp;&nbsp; ↳ since july/24 -->

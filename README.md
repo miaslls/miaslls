@@ -1,8 +1,5 @@
 # 👩‍💻 Camila Salles
 
-<!-- ![Static Badge: Development](https://img.shields.io/badge/Development-5d5d5d?labelColor=darkturquoise)
-![Static Badge: Design](https://img.shields.io/badge/⫶_⫶_-Design-mediumpurple?labelColor=5d5d5d) -->
-
 ![Static Badge: Development](https://img.shields.io/badge/⫶_-Dev-mediumpurple?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZD0nTTI0IDEyTDE4LjM0MzEgMTcuNjU2OUwxNi45Mjg5IDE2LjI0MjZMMjEuMTcxNiAxMkwxNi45Mjg5IDcuNzU3MzZMMTguMzQzMSA2LjM0MzE1TDI0IDEyWk0yLjgyODQzIDEyTDcuMDcxMDcgMTYuMjQyNkw1LjY1Njg1IDE3LjY1NjlMMCAxMkw1LjY1Njg1IDYuMzQzMTVMNy4wNzEwNyA3Ljc1NzM2TDIuODI4NDMgMTJaTTkuNzg4NDUgMjFINy42NjAwOUwxNC4yMTE2IDNIMTYuMzM5OUw5Ljc4ODQ1IDIxWicgZmlsbD0ncmdiYSgyNTUsMjU1LDI1NSwxKSc+PC9wYXRoPjwvc3ZnPg==&labelColor=5d5d5d)
 ![Static Badge: React](https://img.shields.io/badge/React-5a5a5a?logo=react)
 ![Static Badge: Next.js](https://img.shields.io/badge/Next.js-5a5a5a?logo=nextdotjs)
@@ -30,9 +27,9 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats-inky-beta.vercel.app?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)  
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&hide=issues,contribs&show=prs_merged,prs_merged_percentage&hide_border=true&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=467)](https://git.io/streak-stats) -->
 
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&hide=issues,contribs&show=prs_merged,prs_merged_percentage&hide_border=true&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![](https://visitcount.itsvg.in/api?id=miaslls&label=profile%20views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)  
 &nbsp;&nbsp; ↳ since july/24 -->

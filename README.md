@@ -27,5 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)   
-[![GitHub Streak](https://github-readme-streak-stats-inky-beta.vercel.app?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=467)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=true&card_width=500&hide=issues,contribs&text_bold=false&show_icons=true&rank_icon=github&number_format=long&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)   
+[![GitHub Streak](https://github-readme-streak-stats-inky-beta.vercel.app?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=500)](https://git.io/streak-stats)  
+

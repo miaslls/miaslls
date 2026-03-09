@@ -21,12 +21,12 @@
 [<img src="assets/img/miatask-thumb.jpg" height="150" alt="MiaPlay Project Screenshot">](https://github.com/miaslls/MiaTask#readme)
 [<img src="https://github.com/miaslls/MiaMood/blob/main/assets/img/thumb-01.jpg?raw=true" height="150" alt="MiaMood Project Screenshot">](https://github.com/miaslls/MiaMood#readme)
 [<img src="https://github.com/miaslls/MiaLog/blob/main/assets/img/thumb.jpg?raw=true" height="150" alt="MiaLog Project Screenshot">](https://github.com/miaslls/MiaLog#readme)
-[<img src="https://github.com/miaslls/BLUEsims/blob/main/assets/img/screenshots/01.jpg?raw=true" height="150" alt="BLUEsims Project Screenshot">](https://github.com/miaslls/BLUEsims#readme)
 
 <!-- ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaslls&hide=ejs,dockerfile&layout=compact&hide_border=true&border_radius=0&theme=tokyonight)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miaslls&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=true&card_width=500&hide=issues,contribs&text_bold=false&show_icons=true&rank_icon=github&number_format=long&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)   
 [![GitHub Streak](https://github-readme-streak-stats-inky-beta.vercel.app?user=miaslls&theme=tokyonight&hide_border=true&border_radius=0&card_width=500)](https://git.io/streak-stats)   -->
+
 
 
